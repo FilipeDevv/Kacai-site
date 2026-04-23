@@ -1,2 +1,2 @@
-# k-a-ai-site
+kacai-site
 A website that shows informations about the "k-açaí" corporation
